@@ -1,6 +1,6 @@
 # Панорама AI
-Генерация сатирических новостей на основе ruGPT3Large
+Генерация сатирических новостей на основе ruGPT3Large от Sber AI.
 
-Telegram-канал (новая новость раз в 4 часа): [t.me/panorama_ai](https://t.me/panorama_ai)
+Скрипты парсинга панорамы будут выложены позже.
 
-Скачать модель с HuggingFace: [averyanalex/panorama-rugpt3large](https://huggingface.co/averyanalex/panorama-rugpt3large)
+Скачать веса с HuggingFace: [averyanalex/panorama-rugpt3large](https://huggingface.co/averyanalex/panorama-rugpt3large)
